@@ -1,6 +1,6 @@
-<img width="2778" height="1284" alt="Hizu Here (1)" src="https://github.com/user-attachments/assets/30d7f3ff-4009-43a3-8156-0ef6ee07460b" />
+<img width="2778" height="1284" alt="Hizu Here (2)" src="https://github.com/user-attachments/assets/1c7c16d7-ba69-4921-9a9f-91ef7e54a4d9" />
 
-A current BSCS student that has a passion for technology. Currently trying to get started on documenting my progress as a programmer as I learn for 4 years.
+A current BS Computer Science student that has a passion for technology. Currently trying to get started on documenting my progress as a programmer as I learn for 4 years.
 
 Had experience but as a vibe coder. Currently learning everything from scratch to be independent from AI tools.
 
@@ -27,7 +27,6 @@ Had experience but as a vibe coder. Currently learning everything from scratch t
 
 
 ### Credits:
-Banner Icon (upper left) by [radioimg](https://www.tumblr.com/radioimg)
 
 Chibi Render by [praysia](https://www.tumblr.com/praysia)
 
