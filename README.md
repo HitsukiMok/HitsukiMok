@@ -25,8 +25,4 @@ Had experience but as a vibe coder. Currently learning everything from scratch t
 
 
 
-### Credits:
-
-Chibi Render by [praysia](https://www.tumblr.com/praysia)
-
-Skill Icons by [tandpfun](https://github.com/tandpfun/skill-icons)
+**Credits:** Chibi Render by [praysia](https://www.tumblr.com/praysia) | Skill Icons by [tandpfun](https://github.com/tandpfun/skill-icons)
