@@ -25,7 +25,8 @@ Had experience but as a vibe coder. Currently learning everything from scratch t
 
 
 
-#### Credits:
+
+### Credits:
 Banner Icon (upper left) by [radioimg](https://www.tumblr.com/radioimg/793730906077757440/misc-uma-musume-icons-for-anon)
 
 Chibi Render by [praysia](https://www.tumblr.com/praysia)
