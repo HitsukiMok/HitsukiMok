@@ -1,4 +1,4 @@
-<img width="2778" height="1284" alt="Hizu Here" src="https://github.com/user-attachments/assets/1aedbdb9-43fc-4fdc-b81c-56b30bf5449b" />
+<img width="2778" height="1284" alt="Hizu Here (1)" src="https://github.com/user-attachments/assets/30d7f3ff-4009-43a3-8156-0ef6ee07460b" />
 
 A current BSCS student that has a passion for technology. Currently trying to get started on documenting my progress as a programmer as I learn for 4 years.
 
