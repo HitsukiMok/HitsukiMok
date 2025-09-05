@@ -19,8 +19,7 @@ Had experience but as a vibe coder. Currently learning everything from scratch t
 
 # Other Software I use:
 
-![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,webstorm&perline=3)
-
+![My Skills](https://skillicons.dev/icons?i=vscode&perline=1)
 ![My Skills](https://skillicons.dev/icons?i=notion,obsidian&perline=2)
 
 
