@@ -4,7 +4,7 @@
 
 ---
 
-![HitsukiMok's Stats](https://github-readme-stats.vercel.app/api?username=HitsukiMok&theme=prussian&show_icons=true&hide_border=false&count_private=true) ![HitsukiMok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HitsukiMok&theme=prussian&hide_border=false)
+![HitsukiMok's Stats](https://github-readme-stats.vercel.app/api?username=HitsukiMok&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
 A current BS Computer Science student that has a passion for technology. Currently trying to get started on documenting my progress as a programmer as I learn for 4 years.
 
