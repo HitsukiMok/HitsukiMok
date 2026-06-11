@@ -55,9 +55,7 @@
 <img src="https://skillicons.dev/icons?i=git" height="30" alt="git" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github" />
-</kbd>
-
-<br><br>
+</kbd><br>
 <img src="assets/1694273696682.gif" alt="tokaiteio with cape" height="150">
 
 </p>
@@ -78,7 +76,6 @@
 
 </div>
 
-<hr>
 
 <div align="center">
   <p>
