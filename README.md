@@ -8,7 +8,7 @@
   <p>
     <samp>
       &gt; BOOTING...<br>
-      &gt; [OK] USER: <a href="https://github.com/HitsukiMok">HitsukiMok</a><br>
+      &gt; [OK] USER: <a href="https://github.com/HitsukiMok">K</a><br>
       &gt; [OK] CURRENTLY: ON THE GRIND<br>
       &gt; [OK] STATUS: NON-STOP UPSKILLING<br>
     </samp>
@@ -17,7 +17,7 @@
   <hr>
 
   <details open>
-<summary><samp>ACCESS_PROFILE(HitsukiMok.exe)</samp></summary>
+<summary><samp>ACCESS_PROFILE(HitsukiAI.exe)</samp></summary>
 
 <p align="center">
   <br>
