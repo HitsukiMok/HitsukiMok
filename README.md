@@ -16,7 +16,7 @@
 
   <hr>
 
-  <details open>
+<details close>
 <summary><samp>ACCESS_PROFILE(HitsukiAI.exe)</samp></summary>
 
 <p align="center">
@@ -26,8 +26,9 @@
 <div align="center">
 <p style="display: inline-block;">
 
-<kbd> Programming_Languages
+<kbd> Programming Languages
 <br>
+<img width="0" height="10" /> 
 <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
@@ -39,10 +40,9 @@
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
 </kbd>
 
-<br><br>
-
-<kbd> Frameworks_&_Libraries
+<kbd> Frameworks & Libraries
 <br>
+<img width="0" height="10" /> 
 <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
@@ -54,14 +54,10 @@
 <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
 </kbd>
 
-<br><br>
-
 <kbd> Build_Tools
 <br>
 <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
 </kbd>
-
-<br><br>
 
 <kbd> Tools
 <br>
