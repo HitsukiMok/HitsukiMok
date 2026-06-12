@@ -40,6 +40,8 @@
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
 </kbd>
 
+<img width="15" />
+
 <kbd> Frameworks & Libraries
 <br>
 <img width="0" height="10" /> 
@@ -54,13 +56,19 @@
 <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
 </kbd>
 
-<kbd> Build_Tools
 <br>
+
+<kbd> Build Tools
+<br>
+<img width="0" height="10" />
 <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
 </kbd>
 
+<img width="15" />
+
 <kbd> Tools
 <br>
+<img width="0" height="10" />
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=git" height="30" alt="git" />
