@@ -23,7 +23,6 @@
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=503&center=true&width=435&lines=Research+AI+Enthusiast;Data+Nerd;Gamer%2C+Normal+Amount;Tokai+Teio+Oshi;Passionate+Community+Builder;Loves+Technologies" alt="Typing SVG" /></a>
 </p>
-
 <div align="center">
 <p style="display: inline-block;">
 
@@ -31,22 +30,38 @@
 <br>
 <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
 <img width="5" />
+<img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
+<img width="5" />
+<img src="https://skillicons.dev/icons?i=solidity" height="30" alt="Solidity" />
+<img width="5" />
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
-<img width="5" />
+</kbd>
+
+<br><br>
+
+<kbd> Frameworks_&_Libraries
+<br>
 <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind" />
 <img width="5" />
-<img src="https://skillicons.dev/icons?i=solidity" height="30" alt="Solidity" />
+<img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask" />
+<img width="5" />
+<img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
 </kbd>
 
+<br><br>
+
+<kbd> Build_Tools
 <br>
+<img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
+</kbd>
+
+<br><br>
 
 <kbd> Tools
 <br>
@@ -55,7 +70,12 @@
 <img src="https://skillicons.dev/icons?i=git" height="30" alt="git" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github" />
-</kbd><br>
+<img width="5" />
+<img src="https://skillicons.dev/icons?i=obsidian" height="30" alt="obsidian" />
+</kbd>
+
+</p>
+</div>
 <img src="assets/1694273696682.gif" alt="tokaiteio with cape" height="150">
 
 </p>
