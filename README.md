@@ -7,17 +7,14 @@
   <img src="assets/1698509538539.gif" alt="whatiftokaiteio" height="200">
   <p>
     <samp>
-      &gt; BOOTING...<br>
-      &gt; [OK] USER: <a href="https://github.com/HitsukiMok">K</a><br>
-      &gt; [OK] CURRENTLY: ON THE GRIND<br>
-      &gt; [OK] STATUS: NON-STOP UPSKILLING<br>
+      Helloo!! Projects that I made are in my pins!
     </samp>
   </p>
 
   <hr>
 
-<details close>
-<summary><samp>ACCESS_PROFILE(HitsukiAI.exe)</samp></summary>
+<details open>
+<summary><samp>PROFILE</samp></summary>
 
 <p align="center">
   <br>
@@ -26,8 +23,10 @@
 <div align="center">
 <p style="display: inline-block;">
 
-<kbd> Programming Languages
-<br>
+
+<kbd> Programming Languages  </kbd> <br>
+Python, C, Solidity, HTML, CSS, Rust
+<br><kbd> 
 <img width="0" height="10" /> 
 <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
 <img width="5" />
@@ -38,11 +37,15 @@
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" />
 <img width="5" />
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
+<img width="5" />
+<img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust" />
 </kbd>
 
 <img width="15" />
 
-<kbd> Frameworks & Libraries
+<kbd> Frameworks & Libraries</kbd> <br>
+Pytorch, Tensorflow, Tailwind, Flask, React <br>
+<kbd>
 <br>
 <img width="0" height="10" /> 
 <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
@@ -58,16 +61,24 @@
 
 <br>
 
-<kbd> Build Tools
-<br>
+<kbd> Build Tools </kbd> <br>
+Vite, AWS, GCP, Supabase
+<br> <kbd>
 <img width="0" height="10" />
 <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
+<img width="0" height="10" />
+<img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
+<img width="0" height="10" />
+<img src="https://skillicons.dev/icons?i=gcp" height="30" alt="GCP" />
+<img width="0" height="10" />
+<img src="https://skillicons.dev/icons?i=supabase" height="30" alt="Supabase" />
 </kbd>
 
 <img width="15" />
 
-<kbd> Tools
-<br>
+<kbd> Tools </kbd> <br>
+VSCode, Git, Github, Obsidian
+<br> </kbd>
 <img width="0" height="10" />
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode" />
 <img width="5" />
@@ -103,7 +114,7 @@
 
 <div align="center">
   <p>
-    <samp>&gt; EXIT_SYSTEM</samp><br>
+    <samp>View my repo for more cool stuff</samp><br>
   </p>
 </div>
 
