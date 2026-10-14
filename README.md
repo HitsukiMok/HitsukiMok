@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/hero-card.svg" alt="HitsukiMok — terminal hero card" width="840">
+  <img src="assets/hero-card.svg?v=3" alt="HitsukiMok — terminal hero card" width="840">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="Tech Stack — terminal style" width="840">
+  <img src="assets/tech-stack.svg?v=3" alt="Tech Stack — terminal style" width="840">
 </p>
 
 ---
