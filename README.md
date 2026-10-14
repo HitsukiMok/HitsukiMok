@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HitsukiMok&style=flat-square&color=58a6ff&label=visitors" alt="Profile views">
+  <a href="https://github.com/HitsukiMok"><img src="https://komarev.com/ghpvc/?username=HitsukiMok&amp;label=profile%20views&amp;color=58a6ff&amp;style=flat-square&amp;v=2" alt="Profile views"></a>
 </p>
 
 <p align="center">
