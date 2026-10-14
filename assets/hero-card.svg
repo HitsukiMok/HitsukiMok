@@ -41,7 +41,7 @@
   <text class="dim" x="220" y="240">probably cybersec soon :)</text>
 
   <text class="dim" x="220" y="280">$ cat links.txt</text>
-  <text class="prompt" x="220" y="300">&gt;</text><text class="item" x="240" y="300">Projects pinned below</text>
+  <text class="prompt" x="220" y="300">&gt;</text><text class="item" x="240" y="300">reach out for collabs!</text>
   <rect x="410" y="288" width="8" height="16" fill="#58a6ff">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>

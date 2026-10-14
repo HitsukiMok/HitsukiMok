@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center"><code>~/tech-stack</code></h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="assets/tech-stack.svg" alt="Tech Stack — terminal style" width="840">
@@ -20,23 +20,28 @@
 
 ---
 
-<h3 align="center"><code>~/github-stats</code></h3>
+<h3 align="center">GitHub Stats</h3>
 
-<p align="center">
-  <a href="https://github.com/HitsukiMok"><img src="https://github-readme-stats.vercel.app/api?username=HitsukiMok&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" height="195"></a>
-  <a href="https://github.com/HitsukiMok"><img src="https://streak-stats.demolab.com?user=HitsukiMok&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d&background=0d1117" alt="GitHub Streak" height="195"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HitsukiMok"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitsukiMok&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" alt="Top Languages" width="400"></a>
-</p>
+<table align="center" width="840">
+  <tr>
+    <td width="280" align="center">
+      <a href="https://github.com/HitsukiMok"><img src="https://github-readme-stats.vercel.app/api?username=HitsukiMok&show_icons=true&hide_rank=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" width="270"></a>
+    </td>
+    <td width="280" align="center">
+      <a href="https://github.com/HitsukiMok"><img src="https://streak-stats.demolab.com?user=HitsukiMok&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d&background=0d1117" alt="GitHub Streak" width="270"></a>
+    </td>
+    <td width="280" align="center">
+      <a href="https://github.com/HitsukiMok"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitsukiMok&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=6" alt="Top Languages" width="270"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center"><code>~/contribution-graph</code></h3>
+<h3 align="center">Contribution Graph</h3>
 
 <p align="center">
-  <a href="https://github.com/HitsukiMok"><img src="https://github-readme-activity-graph.vercel.app/graph?username=HitsukiMok&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="840"></a>
+  <a href="https://github.com/HitsukiMok"><img src="https://raw.githubusercontent.com/HitsukiMok/HitsukiMok/pacman-output/galaga-contribution-graph.svg" alt="Galaga contribution graph" width="840"></a>
 </p>
 
 ---

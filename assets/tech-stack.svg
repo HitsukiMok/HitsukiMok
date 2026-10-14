@@ -21,7 +21,7 @@
   <circle class="dot-green" cx="64" cy="20" r="6"/>
   <text class="dim" x="420" y="24" text-anchor="middle">~/tech-stack</text>
 
-  <text class="title" x="30" y="56">$ neofetch --tech-stack</text>
+  <text class="title" x="30" y="56">$ opencode --show-capabilities</text>
 
   <rect class="section-border" x="24" y="70" width="258" height="196"/>
   <text class="heading" x="40" y="95">programming_lang:</text>
