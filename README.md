@@ -1,123 +1,55 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HitsukiMok&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=HitsukiMok&style=flat-square&color=58a6ff&label=visitors" alt="Profile views">
 </p>
 
-<div align="center">
-
-  <img src="assets/1698509538539.gif" alt="whatiftokaiteio" height="200">
-  <p>
-    <samp>
-      Helloo!! Projects that I made are in my pins!
-    </samp>
-  </p>
-
-  <hr>
-
-<details open>
-<summary><samp>PROFILE</samp></summary>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="assets/hero-card.svg" alt="HitsukiMok — terminal hero card" width="750"></td>
+    <td valign="bottom"><img src="assets/1694273696682.gif" alt="" height="80"></td>
+  </tr>
+</table>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=503&color=58A6FF&center=true&vCenter=true&width=500&lines=Research+AI+Enthusiast;Agentic+Software+Developer;Data+Nerd;Tokai+Teio+Oshi;Passionate+Community+Builder" alt="Typing SVG" /></a>
+</p>
+
+---
+
+<h3 align="center"><code>~/tech-stack</code></h3>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="assets/tech-stack.svg" alt="Tech Stack — terminal style" width="750"></td>
+    <td valign="bottom"><img src="assets/1690387847892.gif" alt="" height="80"></td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center"><code>~/github-stats</code></h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HitsukiMok&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" height="180">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitsukiMok&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" alt="Top Languages" height="180">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HitsukiMok&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58&border=30363d&background=0d1117" alt="GitHub Streak" width="520">
+</p>
+
+---
+
+<h3 align="center"><code>~/contribution-graph</code></h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HitsukiMok&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" width="840">
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/1698509538539.gif" alt="whatiftokaiteio" height="120">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=503&center=true&width=435&lines=Research+AI+Enthusiast;Data+Nerd;Gamer%2C+Normal+Amount;Tokai+Teio+Oshi;Passionate+Community+Builder;Loves+Technologies" alt="Typing SVG" /></a>
-</p>
-<div align="center">
-<p style="display: inline-block;">
-
-
-<kbd> Programming Languages  </kbd> <br>
-Python, C, Solidity, HTML, CSS, Rust
-<br><kbd> 
-<img width="0" height="10" /> 
-<img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=solidity" height="30" alt="Solidity" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust" />
-</kbd>
-
-<img width="15" />
-
-<kbd> Frameworks & Libraries</kbd> <br>
-Pytorch, Tensorflow, Tailwind, Flask, React <br>
-<kbd>
-<br>
-<img width="0" height="10" /> 
-<img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
-</kbd>
-
-<br>
-
-<kbd> Build Tools </kbd> <br>
-Vite, AWS, GCP, Supabase
-<br> <kbd>
-<img width="0" height="10" />
-<img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
-<img width="0" height="10" />
-<img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-<img width="0" height="10" />
-<img src="https://skillicons.dev/icons?i=gcp" height="30" alt="GCP" />
-<img width="0" height="10" />
-<img src="https://skillicons.dev/icons?i=supabase" height="30" alt="Supabase" />
-</kbd>
-
-<img width="15" />
-
-<kbd> Tools </kbd> <br>
-VSCode, Git, Github, Obsidian
-<br> </kbd>
-<img width="0" height="10" />
-<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=git" height="30" alt="git" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=github" height="30" alt="github" />
-<img width="5" />
-<img src="https://skillicons.dev/icons?i=obsidian" height="30" alt="obsidian" />
-</kbd>
-
-</p>
-</div>
-<img src="assets/1694273696682.gif" alt="tokaiteio with cape" height="150">
-
-</p>
-</div>
-
-</details>
-
-  <hr>
-
-  ## My Contribution Graph
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitsukimok/hitsukimok/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitsukimok/hitsukimok/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hitsukimok/hitsukimok/pacman-output/galaga-contribution-graph.svg">
-</picture>
-
-</div>
-
-
-<div align="center">
-  <p>
-    <samp>View my repo for more cool stuff</samp><br>
-  </p>
-</div>
-
-<p align="center">
-  <img src="assets/1690387847892.gif" alt="tokaiteio with cape" height="100">
+  <sub><samp>projects pinned below ↓</samp></sub>
 </p>

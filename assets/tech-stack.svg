@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    .bg { fill: #0d1117; }
+    .border { stroke: #30363d; stroke-width: 2; fill: none; rx: 12; }
+    .section-border { stroke: #21262d; stroke-width: 1; fill: #161b22; rx: 8; }
+    .heading { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 700; fill: #58a6ff; }
+    .prompt { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #58a6ff; }
+    .item { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #c9d1d9; }
+    .dim { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #484f58; }
+    .title { font-family: 'JetBrains Mono', monospace; font-size: 14px; font-weight: 700; fill: #e6edf3; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="840" height="280" rx="12"/>
+  <rect class="border" x="1" y="1" width="838" height="278" rx="12"/>
+
+  <!-- Window dots -->
+  <circle class="dot-red" cx="24" cy="20" r="6"/>
+  <circle class="dot-yellow" cx="44" cy="20" r="6"/>
+  <circle class="dot-green" cx="64" cy="20" r="6"/>
+
+  <!-- Title bar -->
+  <text class="dim" x="420" y="24" text-anchor="middle">~/tech-stack</text>
+
+  <!-- Section title -->
+  <text class="title" x="30" y="56">$ neofetch --tech-stack</text>
+
+  <!-- Column 1: Programming Languages -->
+  <rect class="section-border" x="24" y="70" width="258" height="196"/>
+  <text class="heading" x="40" y="95">programming_lang:</text>
+  <text class="prompt" x="40" y="118">&gt;</text><text class="item" x="58" y="118">Python</text>
+  <text class="prompt" x="40" y="140">&gt;</text><text class="item" x="58" y="140">JS | CSS | HTML</text>
+  <text class="prompt" x="40" y="162">&gt;</text><text class="item" x="58" y="162">C</text>
+  <text class="prompt" x="40" y="184">&gt;</text><text class="item" x="58" y="184">Solidity</text>
+  <text class="prompt" x="40" y="206">&gt;</text><text class="item" x="58" y="206">Rust</text>
+  <text class="prompt" x="40" y="228">&gt;</text><text class="item" x="58" y="228">R</text>
+  <rect x="40" y="242" width="8" height="14" fill="#58a6ff" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Column 2: Cloud -->
+  <rect class="section-border" x="294" y="70" width="258" height="196"/>
+  <text class="heading" x="310" y="95">cloud:</text>
+  <text class="prompt" x="310" y="118">&gt;</text><text class="item" x="328" y="118">GCP</text>
+  <text class="prompt" x="310" y="140">&gt;</text><text class="item" x="328" y="140">Azure</text>
+  <text class="prompt" x="310" y="162">&gt;</text><text class="item" x="328" y="162">AWS</text>
+  <rect x="310" y="176" width="8" height="14" fill="#58a6ff" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="1.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Column 3: AI/ML -->
+  <rect class="section-border" x="564" y="70" width="258" height="196"/>
+  <text class="heading" x="580" y="95">ai_ml:</text>
+  <text class="prompt" x="580" y="118">&gt;</text><text class="item" x="598" y="118">scikit-learn</text>
+  <text class="prompt" x="580" y="140">&gt;</text><text class="item" x="598" y="140">TensorFlow</text>
+  <text class="prompt" x="580" y="162">&gt;</text><text class="item" x="598" y="162">PyTorch</text>
+  <text class="prompt" x="580" y="184">&gt;</text><text class="item" x="598" y="184">Matplotlib</text>
+  <text class="prompt" x="580" y="206">&gt;</text><text class="item" x="598" y="206">NumPy</text>
+  <text class="prompt" x="580" y="228">&gt;</text><text class="item" x="598" y="228">LangChain</text>
+  <rect x="580" y="242" width="8" height="14" fill="#58a6ff" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

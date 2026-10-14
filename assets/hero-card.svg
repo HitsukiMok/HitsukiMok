@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    .bg { fill: #0d1117; }
+    .border { stroke: #30363d; stroke-width: 2; fill: none; rx: 12; }
+    .title { font-family: 'JetBrains Mono', monospace; font-size: 22px; font-weight: 700; fill: #e6edf3; }
+    .sub { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #8b949e; }
+    .label { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #58a6ff; }
+    .item { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #c9d1d9; }
+    .dim { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #484f58; }
+    .prompt { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #58a6ff; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    .avatar-border { stroke: #30363d; stroke-width: 2; fill: #161b22; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="840" height="340" rx="12"/>
+  <rect class="border" x="1" y="1" width="838" height="338" rx="12"/>
+
+  <!-- Window dots -->
+  <circle class="dot-red" cx="24" cy="20" r="6"/>
+  <circle class="dot-yellow" cx="44" cy="20" r="6"/>
+  <circle class="dot-green" cx="64" cy="20" r="6"/>
+
+  <!-- Title bar -->
+  <text class="dim" x="420" y="24" text-anchor="middle">~/HitsukiMok</text>
+
+  <!-- Avatar placeholder (rounded rect) -->
+  <rect class="avatar-border" x="30" y="50" width="160" height="160" rx="16"/>
+  <image href="https://github.com/HitsukiMok.png" x="32" y="52" width="156" height="156" clip-path="inset(0 round 14px)"/>
+
+  <!-- Name + tagline -->
+  <text class="title" x="220" y="80">HitsukiMok</text>
+  <text class="sub" x="400" y="80">(K)</text>
+  <line x1="220" y1="90" x2="560" y2="90" stroke="#30363d" stroke-width="1"/>
+  <text class="sub" x="220" y="112">that guy who is probably crashing out rn</text>
+
+  <!-- Niche section -->
+  <text class="label" x="220" y="150">Niche:</text>
+  <text class="prompt" x="220" y="172">&gt;</text>
+  <text class="item" x="240" y="172">AI &amp; LLMs</text>
+  <text class="prompt" x="220" y="194">&gt;</text>
+  <text class="item" x="240" y="194">Machine Learning</text>
+  <text class="prompt" x="220" y="216">&gt;</text>
+  <text class="item" x="240" y="216">Agentic Software Development</text>
+  <text class="dim" x="220" y="240">probably cybersec soon :)</text>
+
+  <!-- Socials / links area -->
+  <text class="dim" x="220" y="280">$ cat links.txt</text>
+  <text class="prompt" x="220" y="300">&gt;</text>
+  <text class="item" x="240" y="300">Projects pinned below ↓</text>
+
+  <!-- Cursor blink -->
+  <rect x="370" y="288" width="8" height="16" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
